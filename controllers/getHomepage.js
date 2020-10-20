@@ -1,9 +1,7 @@
 const Post = require("../models/Post")
 
 module.exports = async (req, res) => {
-    const posts = await Post.find({}).sort({
-        _id: -1
-    });
+    const posts = await Post.find({});
     res.render("homepage", {
         posts: posts
     });
