@@ -1,4 +1,4 @@
-# Classy Blog
+# ✏️ Classy Blog
 <p align="center">
   <img width="460" height="300" src="https://i.ibb.co/bvgxwVf/blog.png">
 </p>
