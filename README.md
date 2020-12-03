@@ -1,12 +1,12 @@
-# Mailchimp Newsletter
+# Classy Blog
 <p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/7Yx1GXt/letter.png">
+  <img width="460" height="300" src="https://i.ibb.co/bvgxwVf/blog.png">
 </p>
 
 ### Introduction 🌟
 ---
-Writing Beautiful Blogs is a Hard Task anymore.
-<strong>Classy Blog</strong> is a Featured Blog Post Aplication to Create, Edit, Delete posts. 
+Writing Beautiful Blogs is not a Hard Task anymore. <br/>
+<strong>Classy Blog</strong> is a Featured Blog Post Aplication to Create, Edit, Delete posts.  
 In this app <strong >Markdown</strong> is also integrated to write a beautiful blog with pictures, links, and gif support.
 
 ### How Does It Work 📬
@@ -15,7 +15,7 @@ Just Sign-up/Login yourself and start writing a Blog in Create Post page.
 If you are new to writing a Markdown you can play around on this website to see live preview of your markdown changes:
 [Markdown Live Demo](https://youtu.be/TIwXFr1zYrE "Markdown Live Demo")
 
-#### You can also See Working of App on Youtube: [Video](https://youtu.be/l7fnlKt_MwY "Video")
+#### You can also see Working of App on Youtube: [Video](https://youtu.be/l7fnlKt_MwY "Video")
 
 ### Why I Made This App 👨‍💻
 ---
@@ -48,7 +48,7 @@ During the development of this app, I Learned various new things and strengthene
 
 ### Links 🔗
 ---
-##### See Live Running App on:  [Mailchimp Newsletter](https://mailchimpnewsletterproject.herokuapp.com/ "Mailchimp Newsletter")
+##### See Live Running App on:  [Classy Blog](https://classyblog.herokuapp.com/ "Classy Blog")
 ##### See Portfolio Website at: [Portfolio](https://devdude.web.app/ "Portfolio")
  
 
