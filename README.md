@@ -6,7 +6,7 @@
 ### 🌟 Introduction 
 ---
 Writing Beautiful Blogs is not a Hard Task anymore. <br/>
-<strong>Classy Blog</strong> is a Featured Blog Post Aplication to Create, Edit, Delete posts.  
+<strong>Classy Blog</strong> is a Featured Blog Post Application to Create, Edit, Delete posts.  
 In this app <strong >Markdown</strong> is also integrated to write a beautiful blog with pictures, links, and gif support.
 
 ### ✍️ How Does It Work
@@ -45,6 +45,8 @@ During the development of this app, I Learned various new things and strengthene
 ~ Database
 - MongoDB (Mongoose)
 
+~ Hoisting
+- Heroku
 
 ### 🔗 Links 
 ---
